@@ -1,7 +1,7 @@
 
 export default {
   mode: 'spa',
-  /*
+  /* aaa
   ** Headers of the page
   */
   head: {
